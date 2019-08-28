@@ -1,6 +1,6 @@
 /*
 	OS Assignment 2
-	Authors: Naman Jain, Kumar Prithvi Mishra, Ayush Chaurasia
+	Author: Ayush Chaurasia
 */
 
 
